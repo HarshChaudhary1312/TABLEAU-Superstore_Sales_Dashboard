@@ -22,6 +22,11 @@ To explore the visualizations and dashboards:
 2. Open the Tableau workbook files using Tableau Desktop or Tableau Public.
 3. Interact with the visualizations, apply filters, and explore the insights derived from the data.
 
+## Credits
+- Data Source: https://github.com/HarshChaudhary1312/Tableau-Superstore-Salesdata-Analysis/blob/main/Superstore%20sales.csv
+- Visualization Tools: Tableau Desktop, Tableau Public
+
+  
 ## Contributing
 Contributions are welcome! If you have suggestions, feature requests, or would like to contribute enhancements, please feel free to submit a pull request.
 
