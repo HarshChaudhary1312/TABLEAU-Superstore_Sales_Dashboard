@@ -1,4 +1,5 @@
 # Superstore Sales Data Analysis with Tableau
+<img src="https://nmgprod.s3.amazonaws.com/media/files/f8/01/f801f613d5d0fee3cc459778bdb1cc72/cover_image_1643837491.jpg.760x400_q85_crop_upscale.jpg" height="300">
 
 This repository contains a data visualization project created using Tableau, focusing on analyzing sales data from the fictional Superstore.
 
