@@ -1,5 +1,5 @@
 # Superstore Sales Data Analysis with Tableau
-<img src="https://www.ctvnews.ca/polopoly_fs/1.5077408.1598305505!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg" height="400">
+<img src="https://www.ctvnews.ca/polopoly_fs/1.5077408.1598305505!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg" height="450">
 
 This repository contains a data visualization project created using Tableau, focusing on analyzing sales data from the fictional Superstore.
 
